@@ -1,0 +1,4 @@
+repository "Lab2_SwiperGame_Init/Lab2_SwiperGame_Init@7972398743901@cloud"
+  path "/"
+    br "/main"
+    co "/main"

@@ -1,0 +1,4 @@
+repository "Lab3_SwiperGame_Elements/Lab3_SwiperGame_Elements@7972398743901@cloud"
+  path "/"
+    br "/main"
+    co "/main"

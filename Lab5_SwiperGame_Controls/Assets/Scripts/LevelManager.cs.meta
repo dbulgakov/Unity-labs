@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: dcd7f1a26d31c43b1943ae9473001126
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - levelTexture: {fileID: 2800000, guid: c5c6507ba4bbd4f32968c0c3c03a01a0, type: 3}
+  - prefabWallTile: {fileID: 4122123236811359701, guid: 7cede65e46c4e401b85c3e45e7c79290, type: 3}
+  - prefabRoadTile: {fileID: 8804739323360783592, guid: e0ce2b8f49fd04f5aa9e4978b45e2273, type: 3}
+  - defaultBallRoadTile: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

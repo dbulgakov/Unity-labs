@@ -1,0 +1,4 @@
+repository "Lab5_SwiperGame_Controls/Lab5_SwiperGame_Controls@7972398743901@cloud"
+  path "/"
+    br "/main"
+    co "/main"
